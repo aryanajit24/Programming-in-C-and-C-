@@ -1,0 +1,12 @@
+Modifications We Made:
+Commenting out using namespace std; in Critter.cpp and testcritter.cpp.
+Removing the Critter:: prefix from a method in Critter.cpp.
+Errors Encountered:
+Errors related to undefined identifiers after removing using namespace std;.
+Errors indicating that a method is not defined in the class scope after removing the Critter:: prefix.
+Interpretation:
+Explain why these errors occurred based on C++ syntax and namespace usage.
+Solutions:
+Prefixing standard library entities with std::.
+Re-adding the Critter:: prefix to the method in the Critter.cpp file.
+Remember, the goal of these exercises is to help you understand C++ syntax and how error messages can guide code correction. It's important to engage with the process actively and make these modifications yourself to learn effectively.
