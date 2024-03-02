@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666081457 source:c:\users\dev\desktop\programming c&c++\assignment 7\linkedlist\uselinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+
+1666078646 c:\users\dev\desktop\programming c&c++\assignment 7\linkedlist\linkedlist.h
+
+1666078646 c:\users\dev\desktop\programming c&c++\assignment 7\linkedlist\linked_list.h
+

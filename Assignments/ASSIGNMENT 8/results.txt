@@ -1,0 +1,4 @@
+Sum of 2 doubles: 9.000000
+Difference of 2 doubles: 0.000000
+Product of 2 doubles: 20.250000
+Division of 2 doubles: 1.000000
